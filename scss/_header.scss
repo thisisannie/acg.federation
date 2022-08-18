@@ -8,14 +8,15 @@ header {
 		display: inline-block;
     filter: drop-shadow(0px 0px 9px #031d4d66);
 		&.logo-acg {
-			max-width: calc(50% - 60px);
+			padding: 0;
+			max-width: calc(40% - 60px);
+			float: right;
 			img {
-				width: 192px;
+				width: 131px;
 			}
 		} 
 		&.logo-fed {
-			max-width: calc(50% - 60px);
-			float: right;
+			max-width: calc(40% - 60px);
 			img {
 				width: 192px;
 			}

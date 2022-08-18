@@ -11,10 +11,10 @@
 <body>
     <div class="container">
         <header>
-            <a class="logo logo-acg" href="https://federation.net.nz" target="_blank">
+            <a class="logo logo-fed" href="https://federation.net.nz" target="_blank">
                 <img src="./images/logos/federation-logo-white.svg" alt="Federation logo" title="Federation">
             </a>
-            <a class="logo logo-fed" href="https://www.aucklandcouncil.govt.nz/" target="_blank">
+            <a class="logo logo-acg" href="https://www.aucklandcouncil.govt.nz/" target="_blank">
                 <img src="./images/logos/ac-pohutukawa-icon.svg" alt="Federation logo" title="Federation">
             </a>
             <div id="arrow-down"></div>
