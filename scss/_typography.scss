@@ -1,25 +1,29 @@
 body {
-	font-family: sans-serif;
+	font-family: 'Poppins', sans-serif;
 	font-weight: 300;
 	line-height: 1.25;
 }
 h1, .h1 {
 	font-size: 63px;
-	color: $pink;
+	color: black;
 	font-weight: 600;
+	max-width: 700px;
+	margin-bottom: 18px;
 }
 h2 {
 	margin-bottom: 18px;
-	font-size: 42px;
+	font-size: 26px;
 	font-weight: 600;
-	color: $pink;
+	color: black;
 }
 p {
 	margin-bottom: 20px;
-	font-size: 18.5px;
-	color: #f2f2f2;
+	// font-size: 18.5px;
+	color: #696969;
 	&.intro {
-		font-size: 19.7px;
+		// font-size: 19.7px;
+		font-size: 20px;
+		line-height:26px;
 		margin-bottom: 25px;
 		&:last-child {
 			margin-bottom: 0;
@@ -39,6 +43,9 @@ p {
 			color: $navy;
 	}
 	}
+}
+em {
+	font-style: italic;
 }
 
 strong {
