@@ -34,9 +34,9 @@
             </section>
             <section class="fade-in">
                 <div class="content">
-                    <h2>Our people</h2>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione cum tempora odio, debitis voluptate modi et, facere ea, nihil quidem fugit! Deserunt rem sunt libero illum numquam dolorum cumque dicta.</p>                
-                    <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download our people
+                    <h2>Response to Requirements</h2>
+                    <p>LEADING CHANGE. Welcome to FEDERATION and thank you for this opportunity to submit our Response to Requirements to join Auckland Council Group’s panel as a preferred agency partner.</p>                
+                    <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download our response
                         
                         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                                 y="0px" viewBox="0 0 369.6 532" style="enable-background:new 0 0 369.6 532;" xml:space="preserve">
@@ -47,22 +47,9 @@
             </section>
             <section class="fade-in">
                 <div class="content">
-                    <h2>Case study</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquam omnis architecto ducimus nostrum quam laboriosam, ratione iure illo dicta recusandae aliquid non vel pariatur? Autem optio dolores nobis voluptas.</p>                
-                    <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download case study
-                        <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
-                                y="0px" viewBox="0 0 369.6 532" style="enable-background:new 0 0 369.6 532;" xml:space="preserve">
-                            <path d="M113.68,346.64v-43.12H43.12V43.12h283.36v260.4h-70.56v43.12H369.6V0H0v346.64H113.68z"/>
-                            <path d="M206.64,448.56V226.24h-43.68v223.44l-53.76-54.32l-30.8,30.8L184.24,532l105.84-105.84l-30.24-30.8L206.64,448.56z"/>
-                        </svg>
-                    </a>
-                </div>
-            </section>
-            <section class="fade-in">
-                <div class="content">
-                    <h2>Our work</h2>
-                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea aliquam omnis architecto ducimus nostrum quam laboriosam, ratione iure illo dicta recusandae aliquid non vel pariatur? Autem optio dolores nobis voluptas.</p>                
-                    <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download other work
+                    <h2>Case studies</h2>
+                    <p>Examples of our experience reaching your target audiences (diverse, local, national and internationally) and one relevant customer campaign example, detailing the entire process followed in the achievement of the client’s objectives from strategy planning to production and effectiveness of the project.</p>                
+                    <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download case studies
                         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                                 y="0px" viewBox="0 0 369.6 532" style="enable-background:new 0 0 369.6 532;" xml:space="preserve">
                             <path d="M113.68,346.64v-43.12H43.12V43.12h283.36v260.4h-70.56v43.12H369.6V0H0v346.64H113.68z"/>
