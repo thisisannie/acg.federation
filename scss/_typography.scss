@@ -1,11 +1,26 @@
+@font-face {
+  font-family: "gibson";
+  src: url("../fonts/Gibson-Light.woff2") format("woff2"),
+       url("../fonts/Gibson-Light.woff") format("woff"),
+       url("../fonts/Gibson-Light.otf") format("opentype");
+  font-weight: 300;
+}
+@font-face {
+  font-family: "gibson";
+  src: url("../fonts/Gibson-SemiBold.woff2") format("woff2"),
+       url("../fonts/Gibson-SemiBold.woff") format("woff"),
+       url("../fonts/Gibson-SemiBold.otf") format("opentype");
+  font-weight: 600;
+}
+
 body {
-	font-family: 'Poppins', sans-serif;
+	font-family: 'gibson', sans-serif;
 	font-weight: 300;
 	line-height: 1.25;
 }
 h1, .h1 {
 	font-size: 63px;
-	color: black;
+	color: $pink;
 	font-weight: 600;
 	max-width: 700px;
 	margin-bottom: 18px;
@@ -14,18 +29,16 @@ h2 {
 	margin-bottom: 18px;
 	font-size: 26px;
 	font-weight: 600;
-	color: black;
+	color: $pink;
 }
 p {
 	margin-bottom: 20px;
 	font-size: 18px;
 	line-height: 1.3;
-	color: #696969;
+	color: white;
 	&.intro {
-		// font-size: 19.7px;
+		margin-bottom: 15px;
 		font-size: 20px;
-		line-height:36px;
-		margin-bottom: 25px;
 		&:last-child {
 			margin-bottom: 0;
 		}
@@ -37,7 +50,7 @@ p {
     color: white;
     text-decoration: none;
     display: inline-block;
-    background-color: $red;
+    background-color: $pink;
     transition: all 0.3s ease;
     cursor: pointer;
 		&:hover, &:active, &:focus {
@@ -45,7 +58,7 @@ p {
 	}
 	}
 }
-em {
+em, .em {
 	font-style: italic;
 }
 
@@ -56,6 +69,6 @@ strong {
 ul {
 	margin-bottom: 20px;
 	font-size: 18.5px;
-	color: #f2f2f2;
+	color: white;
 	padding-left: 15px;
 }

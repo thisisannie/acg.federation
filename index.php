@@ -24,18 +24,18 @@
         </header>
         
         <div class="page">
-            <section class="fade-in">
+            <section class="fade-in pattern">
                 <div class="content">
-                    <h1>Ehara taku toa I te toa takitahi, engari he toa takitini.</h1>
-                    <p class="intro"><em>Success is not the work of an individual, but the work of many.</em><br>
-                    We are Federation. <br>
-                    A federation of minds.</p>
+                    <h1>Ehara taku toa i te toa takitahi, engari he toa takitini.</h1>
+                    <p class="intro em">Success is not the work of an individual, but the work of many.</p>
+                    <p class="intro">We are Federation.</p>
+                    <p class="intro">Our federation of minds will work with Auckland Council Group to deliver our ‘Te Pae Mahutoka’ principle – a ‘Southern Cross’ of broad horizontal and deep vertical capabilities, delivering four corners of expertise. Strategy &amp; Creative, Māori and Pasifika Engagement, Data Analytics and Customer-Centered Design, Technology and Digital Innovation.</em></p>
                 </div>
             </section>
-            <section class="fade-in">
+            <!-- <section class="fade-in">
                 <div class="content">
                     <h2>Response to Requirements</h2>
-                    <p>LEADING CHANGE. Welcome to FEDERATION and thank you for this opportunity to submit our Response to Requirements to join Auckland Council Group’s panel as a preferred agency partner.</p>                
+                    <p>LEADING CHANGE. Welcome to FEDERATION and thank you for this opportunity to submit our Response to Requirements to join Auckland Council Group’s panel as a preferred agency partner.</p>
                     <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download our response
                         
                         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
@@ -44,12 +44,12 @@
                             <path d="M206.64,448.56V226.24h-43.68v223.44l-53.76-54.32l-30.8,30.8L184.24,532l105.84-105.84l-30.24-30.8L206.64,448.56z"/>
                         </svg></a>
                 </div>
-            </section>
+            </section> -->
             <section class="fade-in">
                 <div class="content">
                     <h2>Case studies</h2>
-                    <p>Examples of our experience reaching your target audiences (diverse, local, national and internationally) and one relevant customer campaign example, detailing the entire process followed in the achievement of the client’s objectives from strategy planning to production and effectiveness of the project.</p>                
-                    <a class="button" href="./pdfs/test.pdf" target="_blank" title="">Download case studies
+                    <p>Examples of our experience reaching your target audiences (diverse, local, national and internationally) and one relevant customer campaign example, detailing the entire process followed in the achievement of the client’s objectives from strategy planning to production and effectiveness of the project.</p>
+                    <a class="button" href="./pdfs/acg-fed_acg_case-studies-final.pdf" target="_blank" title="">Download case studies
                         <svg version="1.1" id="Isolation_Mode" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
                                 y="0px" viewBox="0 0 369.6 532" style="enable-background:new 0 0 369.6 532;" xml:space="preserve">
                             <path d="M113.68,346.64v-43.12H43.12V43.12h283.36v260.4h-70.56v43.12H369.6V0H0v346.64H113.68z"/>
